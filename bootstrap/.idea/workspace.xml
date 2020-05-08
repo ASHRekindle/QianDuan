@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="41cbd4b3-7ba0-47c3-ada6-2b861ab11d83" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/fengjing.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/touxiang.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/华东.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../one.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shiyong/movie.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tour.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1bbQ1KP0Rmw0rPrHT3ceeBGtW7G" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="41cbd4b3-7ba0-47c3-ada6-2b861ab11d83" name="Default Changelist" comment="" />
+      <created>1588898096825</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588898096825</updated>
+    </task>
+    <servers />
+  </component>
+</project>
